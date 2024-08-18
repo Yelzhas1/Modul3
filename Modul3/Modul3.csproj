@@ -45,6 +45,7 @@
   <ItemGroup>
     <Compile Include="Program3.3..cs" />
     <Compile Include="Program3.2.cs" />
+    <Compile Include="Program3.7.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
